@@ -68,5 +68,6 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
     implementation(libs.mvvi)
+    implementation("com.itextpdf:itext7-core:7.2.3")
 
 }
